@@ -64,7 +64,8 @@ h1 {
 
 button {
   margin-top: 12px;
-  padding: 10px;
+  font-weight: 550;
+  padding: 10px 42px;
   border: none;
   background-color: #3882f6;
   border-radius: 10px;
