@@ -39,13 +39,15 @@ nav img {
   padding-bottom: 5em;
   background-color: #1f2937;
   display: flex;
-  justify-content: space-between;
-  gap: 7em;
+  justify-content: space-evenly;
+}
+
+.hero-left {
+  width: 36em;
 }
 
 .hero img {
-  height: 30em;
-  flex: 1 0 0;
+  height: 18em;
 }
 
 .hero p,
