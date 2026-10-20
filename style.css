@@ -1,0 +1,30 @@
+body {
+  font-family: Roboto;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1f2937;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  gap: 12px;
+  margin-right: 15px;
+  color: #e5e7eb;
+}
+
+ul li a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+nav img {
+  height: 100px;
+}
