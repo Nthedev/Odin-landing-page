@@ -1,5 +1,9 @@
-body {
+* {
   font-family: Roboto;
+}
+
+body {
+  margin: auto;
 }
 
 nav,
