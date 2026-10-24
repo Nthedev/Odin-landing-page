@@ -8,8 +8,8 @@ body {
 
 nav,
 .hero {
-  padding-left: 12em;
-  padding-right: 12em;
+  padding-left: 16em;
+  padding-right: 16em;
 }
 
 nav {
@@ -43,7 +43,7 @@ nav img {
   padding-bottom: 5em;
   background-color: #1f2937;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 
 .hero-left {
