@@ -76,3 +76,29 @@ button {
   background-color: #3882f6;
   border-radius: 10px;
 }
+
+.information {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3em;
+}
+
+h2 {
+  text-align: center;
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+}
+
+.information img {
+  height: 250px;
+  width: 250px;
+  flex: none;
+  border: solid rgb(0, 128, 255) 4px;
+  border-radius: 24px;
+}
+
+.information p {
+  width: 250px;
+}
