@@ -103,3 +103,25 @@ h2 {
   width: 250px;
   text-align: center;
 }
+
+.quote {
+  background-color: #e5e7eb;
+  padding-right: 10em;
+  padding-left: 10em;
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+.quote .text {
+  font-size: 36px;
+  color: #1f2937;
+  font-style: italic;
+  font-weight: 300;
+}
+
+#source {
+  font-weight: 600;
+  font-size: 24px;
+  color: black;
+  text-align: right;
+}
