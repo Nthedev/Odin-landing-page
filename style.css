@@ -133,13 +133,13 @@ h2 {
   margin: 2em 24em;
   border-radius: 1em;
   flex: 1;
-  padding: 2em 12em;
+  padding: 3em 8em;
   justify-content: space-between;
 }
 
 .CTA button {
   border: solid #e5e7eb;
-  padding: 10px 2em;
+  padding: 16px 4em;
   align-self: flex-end;
 }
 
@@ -150,4 +150,9 @@ h2 {
 .CTA p,
 .CTA h3 {
   margin: 4px;
+}
+
+.CTA p {
+  font-size: 18px;
+  color: #e5e7eb;
 }
