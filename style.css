@@ -156,3 +156,11 @@ h2 {
   font-size: 18px;
   color: #e5e7eb;
 }
+
+footer {
+  text-align: center;
+  background-color: #1f2937;
+  color: #e5e7eb;
+  padding: 12px;
+  font-size: 18px;
+}
